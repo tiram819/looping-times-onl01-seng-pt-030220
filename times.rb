@@ -3,7 +3,7 @@ def using_times("Wingardium Leviosa")
 	  puts "Wingardium Leviosa"
 end
 
-
+puts "#{Wingardium Leviosa}"
 
 
 
