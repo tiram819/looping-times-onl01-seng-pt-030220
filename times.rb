@@ -1,9 +1,7 @@
-def using_times("Wingardium Leviosa")
-	seven.times do
-	  puts "Wingardium Leviosa"
+def using_times(name)
+7.times do
+  puts "Wingardium Leviosa #{name}"
 end
-
-puts "#{Wingardium Leviosa}"
-
+end
 
 
